@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_StudentSystem-student", "P01_StudentSystem-student\P01_StudentSystem-student.csproj", "{E860C7D5-5C2D-4254-84E0-C7B536A5BE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_SalesDatabase-sales", "P02_SalesDatabase-sales\P02_SalesDatabase-sales.csproj", "{1F90DD40-4D07-42D6-8F66-45951244FD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E860C7D5-5C2D-4254-84E0-C7B536A5BE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E860C7D5-5C2D-4254-84E0-C7B536A5BE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E860C7D5-5C2D-4254-84E0-C7B536A5BE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E860C7D5-5C2D-4254-84E0-C7B536A5BE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F90DD40-4D07-42D6-8F66-45951244FD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F90DD40-4D07-42D6-8F66-45951244FD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F90DD40-4D07-42D6-8F66-45951244FD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F90DD40-4D07-42D6-8F66-45951244FD48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C5DD1A8-8680-4F1B-9F99-1A43A422431F}
+	EndGlobalSection
+EndGlobal
